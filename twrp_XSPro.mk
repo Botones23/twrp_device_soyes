@@ -10,11 +10,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 # Inherit some common TWRP stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
 
-PRODUCT_DEVICE := X5
-PRODUCT_NAME := twrp_X5
-PRODUCT_BRAND := DOOGEE
-PRODUCT_MODEL := X5
-PRODUCT_MANUFACTURER := DOOGEE
+PRODUCT_DEVICE := XSPro
+PRODUCT_NAME := twrp_XSPro
+PRODUCT_BRAND := SOYES
+PRODUCT_MODEL := XSPro
+PRODUCT_MANUFACTURER := SOYES
 
 PRODUCT_SHIPPING_API_LEVEL := 30
 
