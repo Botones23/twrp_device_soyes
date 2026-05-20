@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X5.mk
+    $(LOCAL_DIR)/twrp_XSPro.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X5-user \
-    twrp_X5-userdebug \
-    twrp_X5-eng
+    twrp_XSPro-user \
+    twrp_XSPro-userdebug \
+    twrp_XSPro-eng
